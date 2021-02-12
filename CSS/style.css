@@ -11,6 +11,7 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+/* General rules */
 :root {
     --orange: #F78B00;
     --blue: #00285F;
@@ -22,6 +23,7 @@ html, body {
     overflow: hidden;
 }
 
+/* Top of the page */
 header {
     width: 100%;
     height: 500px;
