@@ -183,3 +183,7 @@ section .catalog {
     color: var(--blue);
     transition: 0.5s ease;
 }
+
+.card-wrapper {
+    max-width: 1000px;
+}
