@@ -281,3 +281,77 @@ section .catalog {
     color: var(--blue);
     transition: 0.5s;   
 }
+
+/* About */
+
+.about {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50px 10px;
+}
+
+
+.about-content {
+    max-width: 1000px;
+    min-width: 300px;
+    height: 600px;
+    background-color: #dedede70;
+    margin: 0 auto;
+    border-radius: 0 0 8px 8px;
+    z-index: 10;
+    padding: 10px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.title-wrapper-about {
+    margin: 150px auto 0 auto;
+    font-size: 3em;
+    text-align: center;
+    color: var(--blue);
+    background: var(--orange);
+    width: 100%;
+    height: 60px;
+    line-height: 60px;
+    border-radius: 8px 8px 0 0;
+}
+
+.left {
+    width: 25%;
+    min-width: 300px;
+    height: 100%;
+    background: #000000a1;
+    border-radius: 8px;
+}
+
+.right {
+    width: 65%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.right h3 {
+    text-align: right;
+    width: 90%;
+    margin-bottom: 20px;
+    font-size: 1.5em;
+}
+
+.right p {
+    max-width: 90%;
+    font-size: 1em;
+    text-align: right;
+    color: rgba(0,0,0,0.6);
+    line-height: 1.8em;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
