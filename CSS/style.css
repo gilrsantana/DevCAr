@@ -56,12 +56,13 @@ header {
     width: 100%;
     height: 500px;
     background: var(--orange);
+    margin-bottom: 150px;
 }
 
 .content {
     max-width: 1000px;
     min-width: 300px;
-    margin: 0 auto;
+    margin: 0 auto 150px auto;
     display: flex;
     flex-direction: column;
     padding: 10px;
@@ -182,7 +183,6 @@ section .catalog {
 
 .title-wrapper-catalog {
     margin: 0 auto;
-    margin-top: 150px;
     font-size: 3em;
     text-align: center;
     color: var(--blue);
@@ -309,7 +309,7 @@ section .catalog {
 }
 
 .title-wrapper-about {
-    margin: 150px auto 0 auto;
+    margin: 0 auto;
     font-size: 3em;
     text-align: center;
     color: var(--blue);
@@ -361,13 +361,14 @@ section .catalog {
     width: 100%;
     background: var(--gray);
     padding-bottom: 50px;
+    padding-top: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
 }
 
 .title-wrapper-feature {
-    margin: 150px auto 0 auto;
+    margin: 0 auto;
     font-size: 3em;
     text-align: center;
     color: var(--blue);
