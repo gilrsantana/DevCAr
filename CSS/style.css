@@ -359,8 +359,8 @@ section .catalog {
 
 .features {
     width: 100%;
-    height: 100%;
     background: var(--gray);
+    padding-bottom: 50px;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -422,3 +422,5 @@ section .catalog {
     width: 64px;
     height: 64px;
 }
+
+/* Footer */
