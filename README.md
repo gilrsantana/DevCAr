@@ -33,3 +33,23 @@ The project show a model of a rental car website.
 
 ![web5](Img/Views/website-view5.png)
 
+
+## Technologies
+
+### HTML
+
+Semantic HTML
+
+### CSS
+
+Style in elements, FlexBox layout, KeyFrames, Transition, Position.
+
+### JS
+
+Smooth scroll with JS using cferdinandi smooth-scroll CDN
+https://github.com/cferdinandi/smooth-scroll
+
+# Autor
+
+Gilmar Ribeiro Santana
+https://www.linkedin.com/in/gilmarribeirosantana/
