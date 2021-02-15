@@ -2,12 +2,20 @@
 
 ![GitHub](https://img.shields.io/github/license/gilrsantana/DevCar)
 
+
+
+
 # About The Project
 
 https://devcar.netlify.app/
 
 DevCar is a frontend project that was build with a youtube video at https://youtu.be/WzO5QlkjVLA.
 The project show a model of a rental car website.
+
+
+
+
+
 
 ## Layout Mobile
 ![mobile1](Img/Views/mobile-view.png)       
@@ -22,6 +30,11 @@ The project show a model of a rental car website.
 
 
 
+
+
+
+
+
 ## Layout Web
 ![web](Img/Views/website-view.png)
 
@@ -32,6 +45,11 @@ The project show a model of a rental car website.
 ![web4](Img/Views/website-view4.png)
 
 ![web5](Img/Views/website-view5.png)
+
+
+
+
+
 
 
 ## Technologies
@@ -48,6 +66,11 @@ Style in elements, FlexBox layout, KeyFrames, Transition, Position.
 
 Smooth scroll with JS using cferdinandi smooth-scroll CDN
 https://github.com/cferdinandi/smooth-scroll
+
+
+
+
+
 
 # Autor
 
