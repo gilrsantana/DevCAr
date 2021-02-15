@@ -51,6 +51,12 @@ html, body {
     overflow-x: hidden;
 }
 
+@keyframes is-boucing {
+    to {
+        transform: translateY(-10px);
+    }
+}
+
 /* Top of the page */
 header {
     width: 100%;
@@ -300,7 +306,6 @@ section .catalog {
     background-color: #dedede70;
     margin: 0 auto;
     border-radius: 0 0 8px 8px;
-    z-index: 10;
     padding: 10px;
     display: flex;
     flex-direction: row;
@@ -387,7 +392,6 @@ section .catalog {
     margin: 0 auto;
     padding: 50px 25px;
     border-radius: 0 0 8px 8px;
-    z-index: 10;
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(300px, 1fr));
     grid-gap: 30px;
@@ -486,6 +490,20 @@ footer .last {
     display: flex;
     justify-content: center;
     align-items: center;
+}
+
+.fa-chevron-up {
+    font-size: 2em;
+    color: #FFFFFF;
+    padding: 10px;
+    background-color: var(--orange);
+    border-radius: 4px;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    box-shadow: 5px 5px 10px #333;
+    z-index: 2;
+    animation: is-boucing 1s ease-out alternate infinite;
 }
 
 /* Responsivity */
@@ -597,4 +615,8 @@ footer .last {
         margin-left: 0;
     }
 
+    .fa-chevron-up {
+        font-size: 1.5em;
+        padding: 5px;
+    }
 }

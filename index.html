@@ -6,6 +6,12 @@
         <meta http-equiv="X-UA-Compatible" content="IE=edge">
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <title>DevCar</title>
+        
+        <!-- Fontawesome -->
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.2/css/all.css" integrity="sha384-vSIIfh2YWi9wW0r9iZe7RJPrKwp6bG+s9QZMoITbCckVJqGCCRhc+ccxNcdpHuYu" crossorigin="anonymous">
+
+        <!-- Smooth Scroll JS -->
+        <script src="https://cdn.jsdelivr.net/gh/cferdinandi/smooth-scroll@15/dist/smooth-scroll.polyfills.min.js"></script>
 
         <link rel="stylesheet" href="./CSS/style.css">
 
@@ -197,7 +203,7 @@
                 </div> <!-- /feature-card-block -->
             </div> <!-- /content -->
         </section> <!-- /features -->
-
+        <a href="#"><i class="fas fa-chevron-up"></i></a>
         <footer>
             <div class="main">
                 <div class="content footer-links">
@@ -236,5 +242,14 @@
                 DevCar @2021
             </div>
         </footer>
+
+        <script>
+            // Smooth scroll
+            var scroll = new SmoothScroll('a[href*="#"]', {
+            speed: 2000,
+            speedAsDuration: true
+            });
+        </script>
+        
     </body>
 </html>
