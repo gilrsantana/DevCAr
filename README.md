@@ -61,10 +61,8 @@ Style in elements, FlexBox layout, KeyFrames, Transition, Position.
 Smooth scroll with JS using cferdinandi smooth-scroll CDN
 https://github.com/cferdinandi/smooth-scroll
 
-#
-#
-#
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 # Autor
 
 Gilmar Ribeiro Santana
