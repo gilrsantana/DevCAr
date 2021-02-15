@@ -544,7 +544,7 @@ footer .last {
     }
 
     .header-block {
-        height: 60vh;
+        /* height: 60vh; */
     }
 
     .header-block img {
