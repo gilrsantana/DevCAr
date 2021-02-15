@@ -25,9 +25,11 @@ The project show a model of a rental car website.
 ## Layout Web
 ![web](Img/Views/website-view.png)
 
-![web](Img/Views/website-view2.png)
+![web2](Img/Views/website-view2.png)
 
-![web](Img/Views/website-view3.png)
+![web3](Img/Views/website-view3.png)
 
-![web](Img/Views/website-view4.png)
+![web4](Img/Views/website-view4.png)
+
+![web5](Img/Views/website-view4.png)
 
