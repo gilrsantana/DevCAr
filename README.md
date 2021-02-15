@@ -2,7 +2,7 @@
 
 ![GitHub](https://img.shields.io/github/license/gilrsantana/DevCar)
 
-# About the project
+# About The Project
 
 https://devcar.netlify.app/
 
@@ -10,4 +10,7 @@ DevCar is a frontend project that was build with a youtube video at https://yout
 The project show a model of a rental car website.
 
 ## Layout Mobile
-![](Img/Views/mobile-view.png)
+![mobile](Img/Views/mobile-view.png)
+
+## Layout Web
+![web](Img/Views/website-view.png)
