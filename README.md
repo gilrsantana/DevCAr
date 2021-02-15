@@ -13,8 +13,9 @@ DevCar is a frontend project that was build with a youtube video at https://yout
 The project show a model of a rental car website.
 
 
-
-
+#
+#
+#
 
 
 ## Layout Mobile
