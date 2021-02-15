@@ -5,10 +5,6 @@
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
-
 # About The Project
 
 https://devcar.netlify.app/
@@ -19,9 +15,6 @@ The project show a model of a rental car website.
 
 &nbsp;
 
-&nbsp;
-
-&nbsp;
 
 ## Layout Mobile
 ![mobile1](Img/Views/mobile-view.png)       
