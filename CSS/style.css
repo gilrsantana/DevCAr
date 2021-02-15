@@ -543,10 +543,6 @@ footer .last {
         display: none;
     }
 
-    .header-block {
-        /* height: 60vh; */
-    }
-
     .header-block img {
         width: 70%;
         right: 10%;
