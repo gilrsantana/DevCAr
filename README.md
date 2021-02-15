@@ -31,5 +31,5 @@ The project show a model of a rental car website.
 
 ![web4](Img/Views/website-view4.png)
 
-![web5](Img/Views/website-view4.png)
+![web5](Img/Views/website-view5.png)
 
