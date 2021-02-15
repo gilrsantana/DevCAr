@@ -543,6 +543,10 @@ footer .last {
         display: none;
     }
 
+    nav ul button {
+        padding: 10px 30px;
+    }
+
     .header-block img {
         width: 70%;
         right: 10%;
